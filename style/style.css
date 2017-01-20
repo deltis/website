@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.verticalLine {
+    border-left: thin solid #000000;
+    padding-left: 25px
+}
+/* unvisited link : Blue 800 */
+a:link {
+    color: #1565C0;
+}
+
+/* visited link : Blue 700 */
+a:visited {
+    color: #1976D2;
+}
+
+/* mouse over link : Blue 500*/
+a:hover {
+    color: #2196F3;
+}
+
+/* selected link : Blue 900 */
+a:active {
+    color: #0D47A1;
+}
