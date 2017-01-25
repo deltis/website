@@ -1,5 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 .verticalLine {
     border-left: thin solid #000000;
